@@ -37,6 +37,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -57,7 +58,7 @@ public class demofile : MonoBehaviour
     }
 }
 
-
+```
 ## Output:
 ![image](https://user-images.githubusercontent.com/94164665/165435902-22e54f27-93a6-4aea-92b8-292268df67b3.png)
 
